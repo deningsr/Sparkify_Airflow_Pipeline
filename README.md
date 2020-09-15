@@ -1,5 +1,7 @@
 ### Udacity Data Engineering NanoDegree Project 5: Data Pipelines with Apache Airflow
 
+#### Project rubric can be found here: https://review.udacity.com/#!/rubrics/2478/view
+
 #### This project continues to follow the imaginary startup Sparkify as they expand their data architecture.
 #### Their processes have evolved to where they require a structred pipeline that can be updated and monitored.
 
