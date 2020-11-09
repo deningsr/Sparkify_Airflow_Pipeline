@@ -5,7 +5,7 @@ from airflow.contrib.hooks.aws_hook import AwsHook
 from airflow.operators.dummy_operator import DummyOperator
 from airflow.operators import (StageToRedshiftOperator, LoadFactOperator,
                                 LoadDimensionOperator, DataQualityOperator)
-from helpers import SqlQueries
+from plugins.helpers import SqlQueries
 
 
 #Used AWS hooks to work with the credentials
